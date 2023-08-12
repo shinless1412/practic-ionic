@@ -1,0 +1,7 @@
+{
+  "name": "Prov",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
